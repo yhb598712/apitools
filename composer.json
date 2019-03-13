@@ -1,0 +1,14 @@
+{
+    "name": "yhb/testcomposer",
+    "description": "yhb test composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yhb",
+            "email": "yhb598712@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
