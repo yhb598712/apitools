@@ -9,6 +9,11 @@
             "email": "yhb598712@163.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Yhb\\": "src/"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
