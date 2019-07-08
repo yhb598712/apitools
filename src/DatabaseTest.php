@@ -1,6 +1,6 @@
 <?php
 
-namespace Yhb;
+namespace Yhb\ApiTools;
 
 class DatabaseTest{
 	public static function testName()
